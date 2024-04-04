@@ -1,0 +1,1927 @@
+{
+    "endOfGameResult": "GameComplete",
+    "gameCreation": 1712045269000,
+    "gameId": 4963372498,
+    "game_datetime": 1712047565481,
+    "game_length": 2218.635498046875,
+    "game_version": "Version 14.6.570.6276 (Mar 25 2024/14:00:15) [PUBLIC] <Releases/14.6>",
+    "mapId": 22,
+    "participants": [
+        {
+            "augments": [
+                "TFT9_Augment_BuildingACollectionPlus",
+                "TFT7_Augment_LategameSpecialist",
+                "TFT11_Augment_FatedCrown"
+            ],
+            "companion": {
+                "content_ID": "9c643cd2-e936-4e25-9481-2b4cccf34c75",
+                "item_ID": 9024,
+                "skin_ID": 24,
+                "species": "PetSpiritFox"
+            },
+            "gold_left": 1,
+            "last_round": 30,
+            "level": 9,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 1,
+                "DamageDealtToObjectives": 59141,
+                "DamageDealtToTurrets": 3,
+                "DamageTaken": 0,
+                "Deaths": 2,
+                "DoubleKills": 0,
+                "GoldEarned": 0,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 0,
+                "KillingSprees": 11,
+                "Kills": 0,
+                "LargestKillingSpree": 80461,
+                "LargestMultiKill": 125952,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 3,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 22,
+                "PhysicalDamageTaken": 0,
+                "PlayerScore0": 5,
+                "PlayerScore1": 8,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 87,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 1,
+                "PlayerScore6": 10,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 3,
+                "Spell3Casts": 0,
+                "Spell4Casts": 6881,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 1,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 0,
+                "TrueDamageDealt": 1,
+                "TrueDamageDealtToChampions": 58,
+                "TrueDamageTaken": 8,
+                "UnrealKills": 1,
+                "VisionScore": 0,
+                "WardsKilled": 71
+            },
+            "placement": 5,
+            "players_eliminated": 0,
+            "puuid": "uUIjHNVmd91BQzCdQ6NVSWXKgFwNFbbZvmJWZDuLqxp-r7-6LxGjXDVMDAa7FkKfl49c2mSO801a8A",
+            "time_eliminated": 1752.5972900390625,
+            "total_damage_to_players": 109,
+            "traits": [
+                {
+                    "name": "TFT11_Arcanist",
+                    "num_units": 3,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Behemoth",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Dryad",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Fated",
+                    "num_units": 7,
+                    "style": 3,
+                    "tier_current": 3,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Ghostly",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_InkShadow",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Porcelain",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Reaper",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Sniper",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_SpiritWalker",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Umbral",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Warden",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Ahri",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Kindred",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_PowerGauntlet",
+                        "TFT_Item_LastWhisper"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Aphelios",
+                    "itemNames": [
+                        "TFT_Item_GuinsoosRageblade",
+                        "TFT_Item_Deathblade"
+                    ],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Thresh",
+                    "itemNames": [
+                        "TFT_Item_GargoyleStoneplate",
+                        "TFT_Item_ChainVest"
+                    ],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Illaoi",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Ashe",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Syndra",
+                    "itemNames": [
+                        "TFT_Item_AdaptiveHelm",
+                        "TFT_Item_SpearOfShojin"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Sett",
+                    "itemNames": [
+                        "TFT4_Item_OrnnInfinityForce",
+                        "TFT_Item_WarmogsArmor",
+                        "TFT_Item_MadredsBloodrazor"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Udyr",
+                    "itemNames": [
+                        "TFT11_Item_FatedEmblemItem",
+                        "TFT_Item_RedBuff",
+                        "TFT_Item_Redemption"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                }
+            ]
+        },
+        {
+            "augments": [
+                "TFT11_Augment_RainingGold",
+                "TFT9_Augment_MissedConnections",
+                "TFT11_Augment_MythicCrown"
+            ],
+            "companion": {
+                "content_ID": "bf8410f8-a041-4182-a14c-69bf16ac2557",
+                "item_ID": 21018,
+                "skin_ID": 18,
+                "species": "PetDSWhale"
+            },
+            "gold_left": 10,
+            "last_round": 38,
+            "level": 9,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 0,
+                "DamageDealtToObjectives": 224479,
+                "DamageDealtToTurrets": 3,
+                "DamageTaken": 0,
+                "Deaths": 13,
+                "DoubleKills": 0,
+                "GoldEarned": 0,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 0,
+                "KillingSprees": 17,
+                "Kills": 0,
+                "LargestKillingSpree": 62303,
+                "LargestMultiKill": 153729,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 4,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 35,
+                "PhysicalDamageTaken": 0,
+                "PlayerScore0": 1,
+                "PlayerScore1": 8,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 221,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 1,
+                "PlayerScore6": 30,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 1,
+                "Spell3Casts": 0,
+                "Spell4Casts": 10931,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 2,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 1,
+                "TrueDamageDealt": 1,
+                "TrueDamageDealtToChampions": 63,
+                "TrueDamageTaken": 7,
+                "UnrealKills": 1,
+                "VisionScore": 1,
+                "WardsKilled": 93
+            },
+            "placement": 1,
+            "players_eliminated": 2,
+            "puuid": "OvdtrcZmkRS8WNuz_FIXOUSV8ERMABpPjS0ERH5fLaNVhy_C7lzlx0aqnoB9bDXlhIBBnq_SH2pYBw",
+            "time_eliminated": 2210.482666015625,
+            "total_damage_to_players": 189,
+            "traits": [
+                {
+                    "name": "TFT11_Arcanist",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Artist",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Behemoth",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Ghostly",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Heavenly",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 6
+                },
+                {
+                    "name": "TFT11_Invoker",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Mythic",
+                    "num_units": 7,
+                    "style": 3,
+                    "tier_current": 3,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Sniper",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Warden",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Caitlyn",
+                    "itemNames": [
+                        "TFT11_Item_MythicEmblemItem",
+                        "TFT_Item_InfinityEdge",
+                        "TFT_Item_Deathblade"
+                    ],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_ChoGath",
+                    "itemNames": [
+                        "TFT_Item_BrambleVest",
+                        "TFT_Item_DragonsClaw",
+                        "TFT_Item_RedBuff"
+                    ],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Malphite",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_KogMaw",
+                    "itemNames": [
+                        "TFT_Item_BlueBuff",
+                        "TFT_Item_PowerGauntlet",
+                        "TFT_Item_JeweledGauntlet"
+                    ],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Neeko",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Illaoi",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Lillia",
+                    "itemNames": [
+                        "TFT_Item_StatikkShiv",
+                        "TFT_Item_AdaptiveHelm",
+                        "TFT_Item_ZekesHerald"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Nautilus",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Hwei",
+                    "itemNames": [
+                        "TFT_Item_RabadonsDeathcap"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 2
+                }
+            ]
+        },
+        {
+            "augments": [
+                "TFT11_Augment_FortuneCrest",
+                "TFT9_Augment_RedBuff",
+                "TFT9_Augment_HedgeFundPlusPlus"
+            ],
+            "companion": {
+                "content_ID": "d6593334-1e30-4eb1-907c-f6427139be4d",
+                "item_ID": 18,
+                "skin_ID": 18,
+                "species": "PetTFTAvatar"
+            },
+            "gold_left": 1,
+            "last_round": 21,
+            "level": 8,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 0,
+                "DamageDealtToObjectives": 21579,
+                "DamageDealtToTurrets": 1,
+                "DamageTaken": 0,
+                "Deaths": 1,
+                "DoubleKills": 0,
+                "GoldEarned": 2,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 0,
+                "KillingSprees": 1,
+                "Kills": 0,
+                "LargestKillingSpree": 11235,
+                "LargestMultiKill": 25154,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 2,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 20,
+                "PhysicalDamageTaken": 0,
+                "PlayerScore0": 8,
+                "PlayerScore1": 7,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 60,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 0,
+                "PlayerScore6": 5,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 1,
+                "Spell3Casts": 0,
+                "Spell4Casts": 2386,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 0,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 0,
+                "TrueDamageDealt": 0,
+                "TrueDamageDealtToChampions": 46,
+                "TrueDamageTaken": 5,
+                "UnrealKills": 0,
+                "VisionScore": 0,
+                "WardsKilled": 50
+            },
+            "placement": 8,
+            "players_eliminated": 0,
+            "puuid": "AKHQlpYEDO92V68NTut1DeYxfZjjayMUnVGNXmv-jV4pa5pd-veYe2zQdjDRVn1PNnYoNlNK1k_syg",
+            "time_eliminated": 1201.7347412109375,
+            "total_damage_to_players": 5,
+            "traits": [
+                {
+                    "name": "TFT11_Arcanist",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Artist",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Behemoth",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Bruiser",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Dryad",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Fortune",
+                    "num_units": 3,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Ghostly",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_InkShadow",
+                    "num_units": 3,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Invoker",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Mythic",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Porcelain",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_SpiritWalker",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Trickshot",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Umbral",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Aatrox",
+                    "itemNames": [
+                        "TFT_Item_ForceOfNature"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Teemo",
+                    "itemNames": [
+                        "TFT_Item_BlueBuff"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Annie",
+                    "itemNames": [
+                        "TFT_Item_BrambleVest"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Kaisa",
+                    "itemNames": [
+                        "TFT_Item_LastWhisper",
+                        "TFT_Item_MadredsBloodrazor"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Ornn",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Sylas",
+                    "itemNames": [
+                        "TFT_Item_TitansResolve"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Lissandra",
+                    "itemNames": [
+                        "TFT11_Item_FortuneEmblemItem"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Hwei",
+                    "itemNames": [
+                        "TFT_Item_Morellonomicon"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Udyr",
+                    "itemNames": [
+                        "TFT11_Item_InkshadowPig"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 2
+                }
+            ]
+        },
+        {
+            "augments": [
+                "TFT9_Augment_Sleightofhand",
+                "TFT6_Augment_Distancing",
+                "TFT11_Augment_BaBoom"
+            ],
+            "companion": {
+                "content_ID": "af514c99-5ab1-47eb-bcce-b3f1b87ec33a",
+                "item_ID": 49002,
+                "skin_ID": 2,
+                "species": "PetChibiAhri"
+            },
+            "gold_left": 2,
+            "last_round": 26,
+            "level": 8,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 0,
+                "DamageDealtToObjectives": 30528,
+                "DamageDealtToTurrets": 2,
+                "DamageTaken": 0,
+                "Deaths": 2,
+                "DoubleKills": 0,
+                "GoldEarned": 0,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 0,
+                "KillingSprees": 7,
+                "Kills": 0,
+                "LargestKillingSpree": 19815,
+                "LargestMultiKill": 70419,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 1,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 27,
+                "PhysicalDamageTaken": 1,
+                "PlayerScore0": 7,
+                "PlayerScore1": 7,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 75,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 1,
+                "PlayerScore6": 7,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 0,
+                "Spell3Casts": 0,
+                "Spell4Casts": 6684,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 1,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 0,
+                "TrueDamageDealt": 1,
+                "TrueDamageDealtToChampions": 72,
+                "TrueDamageTaken": 7,
+                "UnrealKills": 0,
+                "VisionScore": 1,
+                "WardsKilled": 74
+            },
+            "placement": 7,
+            "players_eliminated": 0,
+            "puuid": "Zl_KWThIBnAuYZZwTiV_k-95LvhNvq7QPllanHFAv3xIqKR1VRktoRbklGsaIHpiyuw5C3mu_naJhg",
+            "time_eliminated": 1500.4212646484375,
+            "total_damage_to_players": 64,
+            "traits": [
+                {
+                    "name": "TFT11_Altruist",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Bruiser",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Dragonlord",
+                    "num_units": 3,
+                    "style": 2,
+                    "tier_current": 2,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Duelist",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Exalted",
+                    "num_units": 2,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Great",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Heavenly",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 6
+                },
+                {
+                    "name": "TFT11_Lovers",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Sage",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Storyweaver",
+                    "num_units": 2,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Umbral",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Soraka",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Diana",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_WarmogsArmor",
+                        "TFT_Item_Morellonomicon"
+                    ],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Galio",
+                    "itemNames": [
+                        "TFT_Item_GargoyleStoneplate"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_LeeSin",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Sylas",
+                    "itemNames": [
+                        "TFT_Item_GargoyleStoneplate",
+                        "TFT_Item_DragonsClaw",
+                        "TFT_Item_Leviathan"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Irelia",
+                    "itemNames": [
+                        "TFT_Item_MadredsBloodrazor",
+                        "TFT_Item_Morellonomicon",
+                        "TFT_Item_RunaansHurricane"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Rakan",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_WuKong",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                }
+            ]
+        },
+        {
+            "augments": [
+                "TFT10_Augment_LuckyStreak",
+                "TFT9_Augment_Commander_RollingForDays",
+                "TFT9_Augment_RollTheDice"
+            ],
+            "companion": {
+                "content_ID": "e2cb006f-de80-48e1-b234-8b565f002a70",
+                "item_ID": 77002,
+                "skin_ID": 2,
+                "species": "PetChibiMorgana"
+            },
+            "gold_left": 26,
+            "last_round": 35,
+            "level": 8,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 0,
+                "DamageDealtToObjectives": 114449,
+                "DamageDealtToTurrets": 3,
+                "DamageTaken": 0,
+                "Deaths": 2,
+                "DoubleKills": 0,
+                "GoldEarned": 0,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 0,
+                "KillingSprees": 14,
+                "Kills": 0,
+                "LargestKillingSpree": 47540,
+                "LargestMultiKill": 172341,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 2,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 24,
+                "PhysicalDamageTaken": 0,
+                "PlayerScore0": 3,
+                "PlayerScore1": 7,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 206,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 1,
+                "PlayerScore6": 21,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 2,
+                "Spell3Casts": 0,
+                "Spell4Casts": 29483,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 2,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 1,
+                "TrueDamageDealt": 1,
+                "TrueDamageDealtToChampions": 80,
+                "TrueDamageTaken": 7,
+                "UnrealKills": 1,
+                "VisionScore": 1,
+                "WardsKilled": 109
+            },
+            "placement": 3,
+            "players_eliminated": 0,
+            "puuid": "3pzVCzm30z9-ypltt4z22D8gjQNXktjnXXqBI5ARsrHq7Iz9Zz3zq5ju7dCpJkGRgrUvgR63gj_rHw",
+            "time_eliminated": 2061.914794921875,
+            "total_damage_to_players": 129,
+            "traits": [
+                {
+                    "name": "TFT11_Arcanist",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Behemoth",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Bruiser",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Exalted",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Ghostly",
+                    "num_units": 6,
+                    "style": 3,
+                    "tier_current": 3,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_InkShadow",
+                    "num_units": 3,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Reaper",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Sage",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Sniper",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_SpiritWalker",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Warden",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Caitlyn",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Aatrox",
+                    "itemNames": [
+                        "TFT_Item_AegisOfTheLegion",
+                        "TFT_Item_Redemption",
+                        "TFT_Item_BrambleVest"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Senna",
+                    "itemNames": [
+                        "TFT7_Item_ShimmerscaleGamblersBlade",
+                        "TFT_Item_InfinityEdge",
+                        "TFT_Item_LastWhisper"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Shen",
+                    "itemNames": [
+                        "TFT5_Item_ThiefsGlovesRadiant",
+                        "TFT5_Item_LastWhisperRadiant",
+                        "TFT5_Item_StatikkShivRadiant"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Illaoi",
+                    "itemNames": [
+                        "TFT_Item_AdaptiveHelm",
+                        "TFT_Item_RedBuff",
+                        "TFT11_Item_InkshadowPig"
+                    ],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 3
+                },
+                {
+                    "character_id": "TFT11_Morgana",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_SteraksGage",
+                        "TFT_Item_RunaansHurricane"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Kayn",
+                    "itemNames": [
+                        "TFT_Item_Deathblade",
+                        "TFT_Item_UnstableConcoction"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Udyr",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                }
+            ]
+        },
+        {
+            "augments": [
+                "TFT6_Augment_MetabolicAccelerator",
+                "TFT9_Augment_HealingOrbsI",
+                "TFT11_Augment_Calltochaos"
+            ],
+            "companion": {
+                "content_ID": "528d126d-be6e-4bee-912c-edd4a5ee6ea9",
+                "item_ID": 18001,
+                "skin_ID": 1,
+                "species": "PetGargoyle"
+            },
+            "gold_left": 0,
+            "last_round": 27,
+            "level": 9,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 1,
+                "DamageDealtToObjectives": 73010,
+                "DamageDealtToTurrets": 2,
+                "DamageTaken": 0,
+                "Deaths": 1,
+                "DoubleKills": 0,
+                "GoldEarned": 0,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 0,
+                "KillingSprees": 3,
+                "Kills": 0,
+                "LargestKillingSpree": 21559,
+                "LargestMultiKill": 59877,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 1,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 20,
+                "PhysicalDamageTaken": 3,
+                "PlayerScore0": 6,
+                "PlayerScore1": 8,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 78,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 0,
+                "PlayerScore6": 9,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 3,
+                "Spell3Casts": 0,
+                "Spell4Casts": 3650,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 0,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 0,
+                "TrueDamageDealt": 0,
+                "TrueDamageDealtToChampions": 38,
+                "TrueDamageTaken": 7,
+                "UnrealKills": 1,
+                "VisionScore": 0,
+                "WardsKilled": 52
+            },
+            "placement": 6,
+            "players_eliminated": 0,
+            "puuid": "BuPcLIQVEZf8NOJdaJL0yuOSxaWHfz76kTne0Jyyo9mE74ph-WAByPjeARiTpcwPbtZh109SFOtZog",
+            "time_eliminated": 1564.00634765625,
+            "total_damage_to_players": 28,
+            "traits": [
+                {
+                    "name": "TFT11_Altruist",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Bruiser",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Dragonlord",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Duelist",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Exalted",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Fortune",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Lovers",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Sage",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Storyweaver",
+                    "num_units": 7,
+                    "style": 3,
+                    "tier_current": 3,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Trickshot",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Warden",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Garen",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_AdaptiveHelm",
+                        "TFT_Item_PowerGauntlet"
+                    ],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Sivir",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Riven",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_AdaptiveHelm",
+                        "TFT_Item_JeweledGauntlet"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Teemo",
+                    "itemNames": [
+                        "TFT_Item_AdaptiveHelm",
+                        "TFT_Item_StatikkShiv",
+                        "TFT_Item_Morellonomicon"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Zyra",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Galio",
+                    "itemNames": [
+                        "TFT_Item_Redemption",
+                        "TFT_Item_NightHarvester",
+                        "TFT_Item_DragonsClaw"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_LeeSin",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Irelia",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_RapidFireCannon",
+                        "TFT_Item_ArchangelsStaff"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Rakan",
+                    "itemNames": [
+                        "TFT11_Item_StoryweaverEmblemItem"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Kayle",
+                    "itemNames": [
+                        "TFT11_Storyweaver7_AS",
+                        "TFT11_Storyweaver5_AS",
+                        "TFT11_Storyweaver3_AS"
+                    ],
+                    "name": "",
+                    "rarity": 9,
+                    "tier": 3
+                }
+            ]
+        },
+        {
+            "augments": [
+                "TFT11_Augment_WanderingTrainerGold",
+                "TFT9_Augment_RedBuff",
+                "TFT11_Augment_Calltochaos"
+            ],
+            "companion": {
+                "content_ID": "b6a7b533-6c34-4ce6-86cf-4a249e093ae0",
+                "item_ID": 42028,
+                "skin_ID": 28,
+                "species": "PetDuckbill"
+            },
+            "gold_left": 1,
+            "last_round": 34,
+            "level": 9,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 0,
+                "DamageDealtToObjectives": 118242,
+                "DamageDealtToTurrets": 3,
+                "DamageTaken": 0,
+                "Deaths": 2,
+                "DoubleKills": 0,
+                "GoldEarned": 0,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 1,
+                "KillingSprees": 13,
+                "Kills": 0,
+                "LargestKillingSpree": 68245,
+                "LargestMultiKill": 112739,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 1,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 25,
+                "PhysicalDamageTaken": 3,
+                "PlayerScore0": 4,
+                "PlayerScore1": 8,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 199,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 1,
+                "PlayerScore6": 7,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 1,
+                "Spell3Casts": 0,
+                "Spell4Casts": 16577,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 0,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 0,
+                "TrueDamageDealt": 1,
+                "TrueDamageDealtToChampions": 84,
+                "TrueDamageTaken": 7,
+                "UnrealKills": 1,
+                "VisionScore": 1,
+                "WardsKilled": 88
+            },
+            "placement": 4,
+            "players_eliminated": 0,
+            "puuid": "KrvBRauNo8C7Ggoj16pTTocYBNwTX3mR80Fcfd4_EdkCtjTo93qviOtYhD5aqz_yOlwY2d_EoMEMcA",
+            "time_eliminated": 1995.3905029296875,
+            "total_damage_to_players": 138,
+            "traits": [
+                {
+                    "name": "TFT11_Altruist",
+                    "num_units": 3,
+                    "style": 2,
+                    "tier_current": 2,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Arcanist",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Bruiser",
+                    "num_units": 3,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Dragonlord",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Duelist",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Exalted",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Fortune",
+                    "num_units": 2,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Heavenly",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 6
+                },
+                {
+                    "name": "TFT11_Invoker",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Lovers",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Storyweaver",
+                    "num_units": 7,
+                    "style": 3,
+                    "tier_current": 3,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Warden",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Garen",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Riven",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Soraka",
+                    "itemNames": [
+                        "TFT11_Item_StoryweaverEmblemItem"
+                    ],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Zoe",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Annie",
+                    "itemNames": [
+                        "TFT_Item_NightHarvester",
+                        "TFT_Item_DragonsClaw",
+                        "TFT_Item_Crownguard"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Galio",
+                    "itemNames": [
+                        "TFT9_Item_OrnnHullbreaker",
+                        "TFT9_Item_OrnnHullbreaker",
+                        "TFT9_Item_OrnnHullbreaker"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_LeeSin",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Irelia",
+                    "itemNames": [
+                        "TFT9_Item_OrnnHorizonFocus",
+                        "TFT_Item_HextechGunblade",
+                        "TFT_Item_MadredsBloodrazor"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Rakan",
+                    "itemNames": [
+                        "TFT_Item_SpearOfShojin",
+                        "TFT_Item_Leviathan",
+                        "TFT_Item_Bloodthirster"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 1
+                },
+                {
+                    "character_id": "TFT11_Kayle",
+                    "itemNames": [
+                        "TFT11_Storyweaver7_AS",
+                        "TFT11_Storyweaver5_AS",
+                        "TFT11_Storyweaver3_Support"
+                    ],
+                    "name": "",
+                    "rarity": 9,
+                    "tier": 3
+                }
+            ]
+        },
+        {
+            "augments": [
+                "TFT9_Augment_WhatDoesntKillYou",
+                "TFT7_Augment_BandOfThieves1",
+                "TFT6_Augment_RadiantRelics"
+            ],
+            "companion": {
+                "content_ID": "671c2050-a557-4bb7-a33e-0904ecd36409",
+                "item_ID": 52018,
+                "skin_ID": 18,
+                "species": "PetBunny"
+            },
+            "gold_left": 0,
+            "last_round": 38,
+            "level": 9,
+            "missions": {
+                "Assists": 0,
+                "DamageDealt": 1,
+                "DamageDealtToObjectives": 152256,
+                "DamageDealtToTurrets": 3,
+                "DamageTaken": 0,
+                "Deaths": 10,
+                "DoubleKills": 0,
+                "GoldEarned": 0,
+                "GoldSpent": 0,
+                "InhibitorsDestroyed": 0,
+                "KillingSprees": 14,
+                "Kills": 0,
+                "LargestKillingSpree": 266479,
+                "LargestMultiKill": 195176,
+                "MagicDamageDealt": 0,
+                "MagicDamageDealtToChampions": 0,
+                "MagicDamageTaken": 0,
+                "NeutralMinionsKilledTeamJungle": 0,
+                "PentaKills": 5,
+                "PhysicalDamageDealt": 0,
+                "PhysicalDamageDealtToChampions": 30,
+                "PhysicalDamageTaken": 0,
+                "PlayerScore0": 2,
+                "PlayerScore1": 8,
+                "PlayerScore10": 0,
+                "PlayerScore11": 0,
+                "PlayerScore2": 221,
+                "PlayerScore3": 0,
+                "PlayerScore4": 1,
+                "PlayerScore5": 1,
+                "PlayerScore6": 13,
+                "PlayerScore9": 0,
+                "QuadraKills": 0,
+                "Spell1Casts": 0,
+                "Spell2Casts": 1,
+                "Spell3Casts": 0,
+                "Spell4Casts": 18393,
+                "SummonerSpell1Casts": 0,
+                "TimeCCOthers": 2,
+                "TotalDamageDealtToChampions": 0,
+                "TotalMinionsKilled": 0,
+                "TripleKills": 0,
+                "TrueDamageDealt": 1,
+                "TrueDamageDealtToChampions": 84,
+                "TrueDamageTaken": 9,
+                "UnrealKills": 0,
+                "VisionScore": 1,
+                "WardsKilled": 102
+            },
+            "placement": 2,
+            "players_eliminated": 4,
+            "puuid": "tTtLRBDo45pYwxKElogpyFSGRRBx8Fazo8XM4V5gDcVSSOprxNebsM5yL_dcHFPwEGIeu_82lt6WQA",
+            "time_eliminated": 2209.281494140625,
+            "total_damage_to_players": 185,
+            "traits": [
+                {
+                    "name": "TFT11_Arcanist",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Behemoth",
+                    "num_units": 4,
+                    "style": 2,
+                    "tier_current": 2,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Dryad",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Fated",
+                    "num_units": 7,
+                    "style": 3,
+                    "tier_current": 3,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_InkShadow",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Porcelain",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_Reaper",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 2
+                },
+                {
+                    "name": "TFT11_Sniper",
+                    "num_units": 2,
+                    "style": 1,
+                    "tier_current": 1,
+                    "tier_total": 3
+                },
+                {
+                    "name": "TFT11_SpiritWalker",
+                    "num_units": 1,
+                    "style": 5,
+                    "tier_current": 1,
+                    "tier_total": 1
+                },
+                {
+                    "name": "TFT11_Umbral",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 4
+                },
+                {
+                    "name": "TFT11_Warden",
+                    "num_units": 1,
+                    "style": 0,
+                    "tier_current": 0,
+                    "tier_total": 3
+                }
+            ],
+            "units": [
+                {
+                    "character_id": "TFT11_Ahri",
+                    "itemNames": [
+                        "TFT_Item_AdaptiveHelm"
+                    ],
+                    "name": "",
+                    "rarity": 0,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Kindred",
+                    "itemNames": [
+                        "TFT_Item_BFSword",
+                        "TFT11_Item_BehemothEmblemItem"
+                    ],
+                    "name": "",
+                    "rarity": 1,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Aphelios",
+                    "itemNames": [
+                        "TFT_Item_RapidFireCannon",
+                        "TFT7_Item_ShimmerscaleHeartOfGold",
+                        "TFT_Item_GuinsoosRageblade"
+                    ],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Thresh",
+                    "itemNames": [
+                        "TFT5_Item_NightHarvesterRadiant",
+                        "TFT_Item_GargoyleStoneplate",
+                        "TFT_Item_IonicSpark"
+                    ],
+                    "name": "",
+                    "rarity": 2,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Ashe",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_PowerGauntlet",
+                        "TFT_Item_LastWhisper"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Ornn",
+                    "itemNames": [],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Syndra",
+                    "itemNames": [
+                        "TFT_Item_BlueBuff",
+                        "TFT_Item_RabadonsDeathcap",
+                        "TFT_Item_HextechGunblade"
+                    ],
+                    "name": "",
+                    "rarity": 4,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Sett",
+                    "itemNames": [
+                        "TFT_Item_ThiefsGloves",
+                        "TFT_Item_Leviathan",
+                        "TFT_Item_Morellonomicon"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 2
+                },
+                {
+                    "character_id": "TFT11_Udyr",
+                    "itemNames": [
+                        "TFT11_Item_FatedEmblemItem",
+                        "TFT_Item_BrambleVest",
+                        "TFT_Item_RedBuff"
+                    ],
+                    "name": "",
+                    "rarity": 6,
+                    "tier": 2
+                }
+            ]
+        }
+    ],
+    "queueId": 1100,
+    "queue_id": 1100,
+    "tft_game_type": "standard",
+    "tft_set_core_name": "TFTSet11",
+    "tft_set_number": 11
+}
